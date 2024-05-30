@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 🚀 Full Stack Developer | MERN Stack Specialist | Mobile App Developer
 
 🌟 About Me:
-I'm a dedicated Full Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React, and Node.js). With a background in software engineering and extensive experience in both front-end and back-end development, I thrive on building robust and scalable applications.
+I'm a dedicated Full Stack Developer with a strong focus on the MERN stack (MongoDB, Express.js, React, and Node.js). 
+While I have extensive experience in both front-end and back-end development,
+backend is my true arena. 
+Design is my kryptonite, but I can navigate both realms when needed.
 
 📱 What I Do:
 
